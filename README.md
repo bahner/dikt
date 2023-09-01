@@ -1,0 +1,3 @@
+# dikt
+
+forstår du nu?
